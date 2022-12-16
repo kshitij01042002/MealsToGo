@@ -28,9 +28,3 @@ export const RestaurantsScreen = () => (
     </RestaurantList>
   </MainContainer>
 );
-
-const styles = StyleSheet.create({
-  container: {},
-  search: {},
-  list: {},
-});
